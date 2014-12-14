@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TCWBTest/MainViewController.cs">
+    <Files>
+      <File FileName="TCWBTest/MainViewController.cs" Line="1" Column="1" />
+      <File FileName="TCWBTest/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TCWBTest/Main.cs" Line="1" Column="1" />
+      <File FileName="TCWBTest/RatingView.cs" Line="1" Column="1" />
+      <File FileName="../../QMYD2.0/QMYD2.0/QMYD2.0/QMYDClientApp.iOS/UIViews/RateViewWithNum.cs" Line="1" Column="1" />
+      <File FileName="TCWBTest/ErrorLog.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/MainViewController.cs" line="50" column="1" />
+      <Breakpoint file="/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/MainViewController.cs" line="55" column="1" />
+      <Breakpoint file="/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/MainViewController.cs" line="45" column="1" />
+      <Breakpoint file="/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/MainViewController.cs" line="40" column="1" />
+      <Breakpoint file="/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/MainViewController.cs" line="30" column="1" />
+      <Breakpoint file="/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/MainViewController.cs" line="25" column="1" />
+      <Breakpoint file="/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/MainViewController.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TencentWBBinding/TencentWBBinding.csproj</String>
+    <String>TCWBBinding/TCWBBinding.csproj</String>
+    <String>TXWBBinding/TXWBBinding.csproj</String>
+    <String>../../../yangdamocs/Projects/TencentWBBinding/TencentWBBinding/TencentWBBinding.csproj</String>
+    <String>../../../yangdamocs/Projects/TencentWBBinding/TCWBBinding/TCWBBinding.csproj</String>
+  </DisabledProjects>
+</Properties>

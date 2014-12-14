@@ -1,0 +1,10 @@
+/Users/yangdamocs/Projects/TencentWBBinding/TXWBB/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/yangdamocs/Projects/TencentWBBinding/TXWBB/bin/Debug/TXWBB.dll.mdb
+/Users/yangdamocs/Projects/TencentWBBinding/TXWBB/bin/Debug/TXWBB.dll
+/Users/yangdamocs/Projects/TencentWBBinding/TXWBB/obj/Debug/TXWBB.dll
+/Users/yangdamocs/Projects/TencentWBBinding/TXWBB/obj/Debug/TXWBB.dll.mdb
+/Users/YangDamocs/Projects/TencentWBBinding/TXWBB/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/YangDamocs/Projects/TencentWBBinding/TXWBB/bin/Debug/TXWBB.dll.mdb
+/Users/YangDamocs/Projects/TencentWBBinding/TXWBB/bin/Debug/TXWBB.dll
+/Users/YangDamocs/Projects/TencentWBBinding/TXWBB/obj/Debug/TXWBB.dll
+/Users/YangDamocs/Projects/TencentWBBinding/TXWBB/obj/Debug/TXWBB.dll.mdb

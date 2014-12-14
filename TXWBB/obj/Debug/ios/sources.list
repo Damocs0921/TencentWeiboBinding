@@ -1,0 +1,5 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/TXWBB/WeiboApiObject.g.cs
+obj/Debug/ios/TXWBB/WeiboApi.g.cs
+obj/Debug/ios/TXWBB/WeiboAuthDelegate.g.cs
+obj/Debug/ios/TXWBB/WeiboRequestDelegate.g.cs

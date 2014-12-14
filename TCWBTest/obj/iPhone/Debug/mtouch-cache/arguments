@@ -1,0 +1,30 @@
+# Version: 7.2.6.28 (606f31a)
+# [first argument, ignore] # /Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/bin/iPhone/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/obj/iPhone/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/bin/iPhone/Debug/TCWBTest.app \
+	-r \
+	/Users/yangdamocs/Projects/TencentWBBinding/TXWBB/bin/Debug/TXWBB.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/Mono.Security.dll \
+	-debug \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/bin/iPhone/Debug/TCWBTest.exe \

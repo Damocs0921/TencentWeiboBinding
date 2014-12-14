@@ -1,0 +1,31 @@
+# Version: 8.4.0.16 (80e9ff7)
+# [first argument, ignore] # /Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.16/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/bin/iPhoneSimulator/Debug/TCWBTest.app \
+	-r \
+	/Users/yangdamocs/Projects/TencentWBBinding/TXWBB/bin/Debug/TXWBB.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Mono.Security.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/bin/iPhoneSimulator/Debug/TCWBTest.exe \

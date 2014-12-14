@@ -1,0 +1,4 @@
+/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/obj/iPhone/Debug/mtouch-cache/Link/TXWBB.dll
+/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/yangdamocs/Projects/TencentWBBinding/TCWBTest/obj/iPhone/Debug/mtouch-cache/Link/TCWBTest.exe
